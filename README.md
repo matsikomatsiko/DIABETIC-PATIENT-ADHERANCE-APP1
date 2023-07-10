@@ -22,7 +22,7 @@ The app was developed using Java programming language for the Android platform. 
 App Features
 The app offers a range of features to address the specific objectives:
 Medication Adherence:
-Medication tracking and reminders
+Medication tracking and reminders,AI MODEL SMART REPLY ON GROWTH STATUS
 Dosage and timing management
 History and progress tracking
 Diet Management:
